@@ -38,7 +38,7 @@ map.html
         <font color="black"><b>CHENNAI</b></font>
       </h1>
       <h2 align="center">
-        <font color="black"><b>S.KEERTHIVASAN(212222040076)</b></font>
+        <font color="black"><b>Mohamed Athif Rahuman J(212223220058)</b></font>
       </h2>
     
     <center>
@@ -145,7 +145,7 @@ park.html
 ```
 
 ## OUTPUT
-![Screenshot 2024-04-29 090814](https://github.com/keerthivasan50/NearMe/assets/150429883/b65f8b07-9acf-4627-b957-a4a90faac46e)
+![Mohamed Athif Rahuman J (212223220058)](https://github.com/mdathif12/NearMe/assets/149365313/3e148189-8b36-4d2c-a603-9d593f5a9e61)
 ![Screenshot 2024-04-29 091642](https://github.com/keerthivasan50/NearMe/assets/150429883/9124a459-901a-4d0b-abab-f1e0c21c4fdf)
 ![Screenshot 2024-04-29 091711](https://github.com/keerthivasan50/NearMe/assets/150429883/2e953b1d-ef61-4237-b68d-f1d61e9a1f36)
 ![Screenshot 2024-04-29 091730](https://github.com/keerthivasan50/NearMe/assets/150429883/f52e113d-2905-41e9-8834-bdb9b53ca168)
